@@ -1,0 +1,17 @@
+	TAGS HTML
+
+<html> -> tag principal do documento html, nela deve estar toda a estrutura do arquivo e todas as outras tags;
+
+<head> -> tag que descreve e informa ao browser as informações sobre o arquivo. Funcionara como o cabeçalho do documento, contendo o titulo, linguagem, metadados, etc.
+
+<title> -> tag que da nome ao arquivo html. Funciona como o titulo do documento.
+
+<script> -> tag que comporta as intruções (código) de lógica da pagina, podendo ser escrito diretamente no arquivo ou direcionar para um arquivo externo;
+
+<style> -> tag que comporta as intruções (código) de estilo e custmização da página, podendo ser diretamente no arquivo ou direcinar para um arquivo externo;
+
+<body> -> tag que contem o conteudo da pagina html, nela se encontra todo o escopo e conteudo visivel ao usuario;
+
+<div> -> tag que cria uma container, uma especie de seção na estrutura da pagina.
+
+ 
